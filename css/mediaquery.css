@@ -1,0 +1,29 @@
+@media screen and (max-width:600px){
+    
+    header{
+        width: 100%;
+    }
+    .logo{
+        margin: auto;
+    }
+    .logo1{
+        width: 200px;
+        margin: auto;
+        border-radius: 10px; 
+    }
+    section.baner{
+        background-position: center;
+        background-size: cover; 
+    }
+    section.imagem > p{
+        width: 300px;
+    }
+    .h1projeto{
+        font-size: 20px;
+    }
+    .container{
+        width: 90%;
+    }
+
+
+}
