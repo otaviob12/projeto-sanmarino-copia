@@ -3,6 +3,9 @@
     header{
         width: 100%;
     }
+    .texto{
+        font-size: 18px;
+    }
     .logo{
         margin: auto;
     }
@@ -24,6 +27,7 @@
     .container{
         width: 90%;
     }
+    
 
 
 }
