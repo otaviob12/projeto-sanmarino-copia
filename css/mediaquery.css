@@ -20,6 +20,9 @@
     }
     section.imagem > p{
         width: 300px;
+        color: white;
+        text-align: justify;
+        margin: auto;
     }
     .h1projeto{
         font-size: 20px;
@@ -27,7 +30,48 @@
     .container{
         width: 90%;
     }
-    
+    .telefone{
+        font-size: 18px;
+        width: 250px;
+        height: 50px;
+    }
 
+    .wpp{
+        width: 50px;
+        height: 50px;
+        bottom: 30px;
+        right: 30px;
+        
+    }
+    .fa-whatsapp{
+        margin-top: 11px;
+    }
+
+    .container-nos{
+        display: inline;
+        width: 100%;
+        
+    }
+    .nos{
+        border: 1px solid #FBD706;
+        border-radius: 20px;
+    
+        margin: auto;
+        margin-top: 20px;
+        padding: 10px; 
+    
+        text-align: center;
+        width: 300px;
+        font-size: 18px;
+    }
+    .txt{
+        width: 280px;
+    }
+    .maps{
+        width: 305px;
+    }
+    iframe{
+        width: 300px;
+    }
 
 }
