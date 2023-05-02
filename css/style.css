@@ -235,6 +235,10 @@ h1{
     width: 450px;
     font-size: 18px;
 }
+.nos-p{
+    padding-top: 150px;
+    font-weight: bold;
+}
 .txt{
     text-align: justify;
     padding-left: 10px;

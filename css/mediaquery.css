@@ -63,6 +63,10 @@
         font-size: 18px;
         height: 500px;
     }
+    .nos-p{
+        padding-top: 280px;
+        font-weight: bold;
+    }
     .txt{
         width: 280px;
     }
