@@ -73,5 +73,21 @@
     iframe{
         width: 300px;
     }
-
+    .img{
+        padding-top: 20px;
+        width: 350px;
+    }
+    .container-projetista{
+        display: inline;
+    }
+    .projetista{
+        width: 350px;
+        margin: auto;
+    }
+    .botao-orc{
+        margin-left: 11px;
+    }
+    .sobre{
+        margin-top: 10px;
+    }
 }
