@@ -18,6 +18,9 @@
         background-position: center;
         background-size: cover; 
     }
+    section.baner > p{
+        width: 350px;
+    }
     section.imagem > p{
         width: 300px;
         color: white;
